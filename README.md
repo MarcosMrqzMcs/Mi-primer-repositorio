@@ -1,22 +1,6 @@
-# Mi-primer-repositorio
+# ***Mi-primer-repositorio***
 
-Este es mi primer repositorio en GitHub
+***Este es mi primer repositorio en GitHub***
 
-# Mi-primer-repositorio
-
-Este es mi primer repositorio en GitHub
-
-
-
-# Mi-primer-repositorio
-
-Este es mi primer repositorio en GitHub
-
-
-
-# Mi-primer-repositorio
-
-Este es mi primer repositorio en GitHub
-
-
+# 
 
